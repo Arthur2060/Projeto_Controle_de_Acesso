@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projeto_Controle_de_Acesso.iml" filepath="$PROJECT_DIR$/.idea/Projeto_Controle_de_Acesso.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Src/Src.iml" filepath="$PROJECT_DIR$/Src/Src.iml" />
     </modules>
   </component>
 </project>
